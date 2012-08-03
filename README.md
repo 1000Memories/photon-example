@@ -22,4 +22,4 @@ Cropped to the face, rotated, then resized
 
 ----
 
-Try it out on your own avatar: http://photon-example.herokuapp.com/{your twitter user name}
+Try it out on your own avatar: http://photon-example.herokuapp.com/{your-twitter-user-name}
