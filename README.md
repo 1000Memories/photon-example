@@ -8,13 +8,13 @@ An example app that uses [photon-core](https://github.com/1000Memories/photon-co
 The original image  
 ![Original](https://photon-example.herokuapp.com/michaelfairley)
 
-Resized to a width of 200px (;w=200 added to the original URL)  
+Resized to a width of 200px (`;w=200` added to the original URL)  
 ![200px Wide](https://photon-example.herokuapp.com/michaelfairley;w=200)
 
-Rotated 180 degrees (;r=180 added to the original URL)  
+Rotated 180 degrees (`;r=180` added to the original URL)  
 ![Rotated 180 degrees](https://photon-example.herokuapp.com/michaelfairley;r=180)
 
-A crop of just the face (;c=130,60,200,200 added to the original URL)  
+A crop of just the face (`;c=130,60,200,200` added to the original URL)  
 ![Cropped closer](https://photon-example.herokuapp.com/michaelfairley;c=130,60,200,220)
 
 Cropped to the face, rotated, then resized  
