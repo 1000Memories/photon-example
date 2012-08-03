@@ -1,5 +1,5 @@
 # photon-example
-An example app that uses [photon-core](https://github.com/1000Memories/photon-core) to process [Twitter](https://twitter.com/) avatars on the fly.
+An example [Dropwizard](http://dropwizard.codahale.com/) app that uses [photon-core](https://github.com/1000Memories/photon-core) to process [Twitter](https://twitter.com/) avatars on the fly.
 
 ----
 
